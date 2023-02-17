@@ -33,7 +33,7 @@ input:focus, textarea, select, a, button {
 
 .curve-container {
   background-color: #f7f8fc;
-  height: 400px;
+  height: 50%;
   position: relative;
   overflow: hidden;
   z-index: -2; }
@@ -53,6 +53,7 @@ input:focus, textarea, select, a, button {
 
 .container {
   max-width: 1400px;
+  height: 50%;
   margin: 30px auto; }
 
 header {
